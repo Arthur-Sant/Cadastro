@@ -1,1 +1,0 @@
-Projeto escolar feito para simular um site de cadastro, usando a linguagem php bem basico
