@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="css/animation.css">
+    <link rel="icon" href="hexagon.svg">
+</head>
+<body>
+
+<div class="form animation-tudo">
+    <h1 class="animation-tudo h1"><ins>Login</ins></h1>
+
+    <form action="php/usuario.php" method="post">
+
+        <div class="caixas">
+        <input class="animation-tudo linha1" type="email" name="email" autocomplete="on" placeholder="E-mail" required>
+        <input class="animation-tudo linha2" type="password" name="senha" autocomplete="off" placeholder="Senha" minlength="8" required>
+        </div>
+
+        <div class="button">
+        <button class="animation-tudo linha3" name="entrar">Entrar</button>
+        </div>
+    </form>
+    <nav>
+    <h3 class="animation-tudo linha4">Não é cadastrado? <a href="cadastro_usuario.html">Cadastre</a></h3>
+    <h3 class="animation-tudo linha5"><a href="php/produto.php">Ver produto</a></h3>
+    </nav>
+
+</div>
+</body>
+</html>

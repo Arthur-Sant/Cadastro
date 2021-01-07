@@ -1,0 +1,40 @@
+@keyframes tudo{
+    from{
+        transform: translateY(20%);
+        opacity: 0;
+    }to{
+         transform: rotateY(0);
+         opacity: 0.9;
+     }
+}
+
+.animation-tudo{
+    animation-name: tudo;
+    animation-duration: 1s;
+    animation-fill-mode: backwards;
+}
+
+.h1{
+    animation-delay: 100ms;
+}
+.linha1{
+    animation-delay: 200ms;
+}
+.linha2{
+    animation-delay: 300ms;
+}
+.linha3{
+    animation-delay: 400ms;
+}
+.linha4{
+    animation-delay: 500ms;
+}
+.linha5{
+    animation-delay: 600ms;
+}
+.linha6{
+    animation-delay: 700ms;
+}
+.linha7{
+    animation-delay: 800ms;
+}
