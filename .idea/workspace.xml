@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03e4c68a-bbc1-4ee9-b593-51ac6bbf390c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dnO9qF66e1XDHuEEiOdg8y0kd5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\devweb\1 TRIMESTRE\Cadastro\php" />
+      <recent name="C:\wamp64\www\devweb\1 TRIMESTRE\Cadastro\css" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03e4c68a-bbc1-4ee9-b593-51ac6bbf390c" name="Default Changelist" comment="" />
+      <created>1593057241961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593057241961</updated>
+      <workItem from="1593057243208" duration="7951000" />
+      <workItem from="1593068571338" duration="1150000" />
+      <workItem from="1593105972390" duration="3686000" />
+      <workItem from="1593109813050" duration="476000" />
+      <workItem from="1593121034369" duration="415000" />
+      <workItem from="1593796521469" duration="113000" />
+      <workItem from="1601768528882" duration="173000" />
+      <workItem from="1603666447252" duration="694000" />
+      <workItem from="1603730864320" duration="68000" />
+      <workItem from="1603834465014" duration="3709000" />
+      <workItem from="1603838269250" duration="8350000" />
+      <workItem from="1603906914164" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603841900481">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603841900481" />
+    <state x="676" y="0" width="697" height="735" key="dock-window-1" timestamp="1603841949203">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1603841949203" />
+  </component>
+</project>
